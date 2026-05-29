@@ -1,9 +1,11 @@
-````markdown id="m9v2qx"
+````markdown id="u4w7y2"
 <div align="center">
 
-<img src="http://www.universidadesvirtuales.com.co/logos/original/logo-universidad-del-pacifico.png" width="220">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Universidad_del_Pacifico_Colombia_logo.png" width="220">
 
 # TALLER PRÁCTICO DE PANDAS Y EXCEL EN PYTHON
+
+<br>
 
 <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="220">
 
@@ -24,7 +26,9 @@
 
 ### Desarrollado en Google Colab
 
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="80">
+<br>
+
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="90">
 
 </div>
 
